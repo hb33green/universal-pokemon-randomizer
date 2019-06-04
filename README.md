@@ -1,4 +1,4 @@
-Universal Pokemon Randomizer
+Universal Pokemon Randomizer - My changes could be good!
 
 By Dabomstew
 
